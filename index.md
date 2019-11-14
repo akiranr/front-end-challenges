@@ -1,39 +1,15 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/akiranr/QuizApp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Build a quiz app as per the mockup presented below
 
 ![Mockup](https://akiranr.github.io/QuizApp/QuizApp_Mockup.jpg)
 
-```markdown
-Syntax highlighted code block
+## Requirements
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) 
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akiranr/QuizApp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. The endpoint for fetching categories is https://opentdb.com/api_category.php
+2. The options for Difficuly and Type are hardcoded
+3. When user clicks "Go", fetch and display 10 questions at a time, indicated by the "amount" querystring parameter below
+4. The endpoint for fetching questions based on the selected dropdown options is https://opentdb.com/api.php?amount=10&category=22&difficulty=medium&type=multiple. Ignore corresponding querystring parameters if user selects "Any"
+5. Validate if all questions are answered before user can "Check score"
+6. Display scoring percentage based on the no. of correct answers
+7. "Try again" will clear all the answers and allow user to start answering again
