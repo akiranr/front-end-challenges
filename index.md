@@ -8,6 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+![Mockup](https://akiranr.github.io/QuizApp/QuizApp_Mockup.jpg)
+
 ```markdown
 Syntax highlighted code block
 
@@ -23,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Mockup](https://akiranr.github.io/QuizApp/QuizApp_Mockup.jpg)
+[Link](url) 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
