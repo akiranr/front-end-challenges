@@ -2,7 +2,7 @@
 
 Build a quiz app as per the mockup presented below
 
-![Mockup](https://akiranr.github.io/QuizApp/QuizApp_Mockup.jpg)
+![Mockup](https://akiranr.github.io/front-end-challenges/quizapp/QuizApp_Mockup.jpg)
 
 ## Requirements
 
