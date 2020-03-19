@@ -1,6 +1,7 @@
 # Search box to filter countries
 
 ### API Endpoint - https://restcountries.eu/#api-endpoints
+### Example search box - https://community.algolia.com/places/examples.html
 
 ## Requirements
 
