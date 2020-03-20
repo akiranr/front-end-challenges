@@ -1,4 +1,4 @@
-# Search box to filter countries
+# Search box to search for and display country details
 
 ## Key points
 
