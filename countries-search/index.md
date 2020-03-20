@@ -14,4 +14,4 @@
 
 ## Additional Info
 
-1. Any required icons can be downloaded from https://iconmonstr.com/ or https://github.com/tabler/tabler-icons
+1. Any required icons can be downloaded from https://iconmonstr.com/ or https://feathericons.com/ or https://github.com/tabler/tabler-icons.
