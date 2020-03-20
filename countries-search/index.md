@@ -11,3 +11,7 @@
 4. Limit the search results to top 5
 5. Selecting/Clicking on the search result should populate country details below the search box. This is a separate API call to get details by passing country code
 6. Next steps: Throttle/Debounce the search; Show popular searches in the side bar; Show recent searches below the search box as hyperlinks, which when clicked will directly fetch the country details
+
+## Additional Info
+
+1. Any required icons can be downloaded from https://iconmonstr.com/ or https://github.com/tabler/tabler-icons
